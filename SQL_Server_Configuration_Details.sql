@@ -1,3 +1,13 @@
+/* 
+
+Script Title - SQL Server Configuration Details 
+Script Written by - Ganesh Jayaraman
+Script Details - USe this script to capture details about the SQL Server
+Details Captured are:
+Server Version Details | DB File Details | DB Size Database Details | Config & Memory Details
+Startup Parameters & Protocol Details | Last Backup Details
+
+*/
 SET NOCOUNT ON
 
 	DECLARE @TABLE_VER TABLE 
